@@ -1,0 +1,18 @@
+.scratchfont{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:dodgerblue;
+    font-size: large;
+}
+.headfont{
+    font-family:cursive ;
+    color: brown;
+}
+.body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHaoo3qJB7dpCKkxHBpTxwvKyhg6eMbkAZA&usqp=CAU);
+    background-color: darkslateblue;
+}
+.style{
+    list-style-type: style type;font-variant-numeric: normal;
+    font-size: medium;
+    color:grey;
+}

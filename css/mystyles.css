@@ -1,0 +1,24 @@
+.myfont{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: burlywood !important;
+    font-size: 85% !important;
+}
+.mysubfont{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: burlywood !important;    
+    font-size: 300% !important;
+}
+.myfontt{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    color: black !important;
+    font-size: 150% !important;
+}
+.myfonttt{
+    font-family:'Times New Roman', Times, serif!important;
+    color:black!important;
+    font-size: 80% !important;
+}
+.imgsize{
+    max-width: 18% !important;
+    height:auto !important;
+}
